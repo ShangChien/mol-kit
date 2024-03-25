@@ -1,5 +1,10 @@
 # [mol-kit](https://pypi.org/project/mol-kit/ 'mol-kit docs')
 
+# install:
+``` sh
+pip install mol-kit
+```
+
 ## This library currently has several main features:
 
 - handle input file format conversions for DFT calculation (such as: ORCA, GAUSSIAN, VASP...) 
