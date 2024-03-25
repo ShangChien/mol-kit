@@ -1,4 +1,4 @@
-# [mol-kit](https://ShangChien.github.io 'mol-kit docs')
+# [mol-kit](https://pypi.org/project/mol-kit/ 'mol-kit docs')
 
 ## This library currently has several main features:
 
